@@ -40,5 +40,6 @@ while True:
     if x > 100:
         break
 print sum
+# Python2.6
 
 
