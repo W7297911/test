@@ -22,3 +22,4 @@ day_mumber   = int(day)
 month_name = months[month_number-1]
 ordinal = day + endings[day_mumber-1]
 print month_name + '  ' + ordinal + '.  ' + year
+
