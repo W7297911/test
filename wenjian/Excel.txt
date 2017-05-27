@@ -1,0 +1,4 @@
+1、Excel中删除超链接的代码
+
+打开VBA→打开立即窗口输入一下代码并执行：
+cells.Hyperlinks.Delete
