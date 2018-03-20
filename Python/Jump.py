@@ -1,3 +1,5 @@
+#coding = utf-8
+
 import pymouse, time, pyHook, pythoncom, math, random
 
 m = pymouse.PyMouse()
