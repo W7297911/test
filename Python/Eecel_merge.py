@@ -1,4 +1,4 @@
-#  -*- coding: utf-8 -*-
+#coding = utf8
 # 将多个Excel文件合并成一个
 import xlrd
 import xlsxwriter
