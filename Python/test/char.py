@@ -1,0 +1,17 @@
+#conding=utdf-8
+print("*"*30)
+sum = "Test build w7297911"
+sum1 = sum.isalnum()
+print(sum1)
+print("*"*30)
+sum2 = sum.title()
+print(sum2)
+print("*"*30)
+sum3 = sum.istitle()
+print(sum3)
+print("*"*30)
+sum3 = sum.isdigit()
+print(sum3)
+print("*"*30)
+sum4 = sum.capitalize()
+print(sum4)

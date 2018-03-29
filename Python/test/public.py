@@ -4,3 +4,5 @@ y['username'] = 'mlh'
 y['machines'].remove('bar')
 print x
 print y
+a = "qwertyu"
+a.username
