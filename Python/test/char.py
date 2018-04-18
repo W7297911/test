@@ -1,29 +1,8 @@
 #conding=utdf-8
-print("*"*30)
-sum = "Test build w7297911"
-sum1 = sum.isalnum()
-print(sum1)
-print("*"*30)
-sum2 = sum.title()
-print(sum2)
-print("*"*30)
-sum3 = sum.istitle()
-print(sum3)
-print("*"*30)
-sum3 = sum.isdigit()
-print(sum3)
-print("*"*30)
-sum4 = sum.capitalize()
-print(sum4)
-t = (3,4,5,7)
-a,b,c,d = t
-print(t)
-print(a)
-print(b)
-print(c+d)
-t1 = (3,4,("e","f"),"we")
-print(t1)
-print(t1[1])
-print(t1[2])
-print(t1[3])
-help(list)
+import turtle
+import time
+turtle.setup(800,400,100,100)
+for i in range(9):
+    turtle.fd(100)
+    turtle.left(60)
+    time.sleep(0.1)
