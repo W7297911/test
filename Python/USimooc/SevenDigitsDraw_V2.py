@@ -3,7 +3,7 @@ import turtle, time
 #绘制数码管间隔
 def drawGap():
     turtle.penup()
-    turtle.fd(6)
+    turtle.fd(5)
 #绘制单段数码管
 def drawLine(draw):
     drawGap()
@@ -26,15 +26,28 @@ def drawDigit(digit):
     turtle.fd(20)     #为绘制后续数字确定位置
 #获得要输出的数字
 def drawDate(date):
-    turtle.pencolor("green")
+    turtle.pencolor("red")
     for i in date:
-        drawDigit(eval(i))    #通过eval()函数将数字转换为整数
+        if i == "-":
+            turtle.write("年", font = ("Arial", 18, "normal"))
+            turtle.pencolor('green')
+            turtle.fd(40)
+        elif i == "=":
+            turtle.write("月", font=("Arial", 18, "normal"))
+            turtle.pencolor('blue')
+            turtle.fd(40)
+        elif i == "+":
+            turtle.write("日", font=("Arial", 18, "normal"))
+        else:
+            drawDigit(eval(i))
+        
 def main():
     turtle.setup(800, 350, 200, 200)
     turtle.penup()
-    turtle.fd(-300)
-    turtle.pensize(6)
-    drawDate('20181010')
+    turtle.fd(-350)
+    turtle.pensize(5)
+    #drawDate('2018-10=10+')
+    drawDate(time.strftime('%Y-%m=%d+', time.gmtime()))
     turtle.hideturtle()
     turtle.done()
 main()
