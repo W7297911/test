@@ -1,4 +1,4 @@
- #-*- coding: utf-8 -*-
+ #coding=utf-8
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
@@ -9,7 +9,7 @@ import os
 
 #定义
 def pull_screenshot():
-'''截取手机屏幕并发送到电脑函数'''
+#截取手机屏幕并发送到电脑函数
 os.system('adb shell screencap -p /sdcard/autojump.png')
 #发送截屏命令到手机
 os.system('adb pull /sdcard/autojump.png .')
@@ -41,7 +41,8 @@ cor = [0, 0]
 pull_screenshot()
 '''执行截屏函数'''
 img = np.array(Image.open('autojump.png'))
-Image.open'''读取图片
+Image.open()
+ '''读取图片
 到名为
 img
 的图片数组'''
