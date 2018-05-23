@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
+<<<<<<< HEAD
     <data-source name="@localhost" uuid="de2bb7c1-78e7-414b-a39b-13994a14e941">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
       <secret-storage>memory</secret-storage>
+=======
+    <data-source name="db1@localhost" uuid="a6cf815a-6dd2-416f-bde5-19423a1f0fb7">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+>>>>>>> doc
     </data-source>
   </component>
 </project>

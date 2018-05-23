@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="5c4995a2-eb15-4842-a39e-4aef3fe234a3" name="Default" comment="" />
 =======
     <list default="true" id="5c4995a2-eb15-4842-a39e-4aef3fe234a3" name="Default" comment="">
@@ -12,6 +13,9 @@
 >>>>>>> python
     </list>
 >>>>>>> python
+=======
+    <list default="true" id="5c4995a2-eb15-4842-a39e-4aef3fe234a3" name="Default" comment="" />
+>>>>>>> doc
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +69,11 @@
         <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
       </PATH_ELEMENT>
       <PATH_ELEMENT>
+<<<<<<< HEAD
         <option name="myItemId" value="@localhost" />
+=======
+        <option name="myItemId" value="db1@localhost" />
+>>>>>>> doc
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
@@ -139,6 +147,7 @@
 >>>>>>> doc
 =======
         <option value="$PROJECT_DIR$/wenjian/test.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Python/test/unittest.py" />
         <option value="$PROJECT_DIR$/Python/test/django.py" />
         <option value="$PROJECT_DIR$/Python/test/Tencent_Jump.py" />
@@ -162,6 +171,9 @@
         <option value="$PROJECT_DIR$/Python/USimooc/KochDraw_V1.py" />
         <option value="$PROJECT_DIR$/Python/USimooc/KochDraw_V2.py" />
 >>>>>>> python
+=======
+        <option value="dbtable:/2d0da5a0/a6cf815a-6dd2-416f-bde5-19423a1f0fb7/db1.student" />
+>>>>>>> doc
       </list>
     </option>
   </component>
@@ -173,6 +185,7 @@
   </component>
   <component name="ProjectFrameBounds">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="x" value="2" />
     <option name="y" value="86" />
     <option name="width" value="1370" />
@@ -181,6 +194,11 @@
     <option name="y" value="76" />
     <option name="width" value="1382" />
 >>>>>>> python
+=======
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+>>>>>>> doc
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -206,11 +224,15 @@
 >>>>>>> python
 =======
       <pane id="Scope" />
+<<<<<<< HEAD
 >>>>>>> doc
 =======
       <pane id="Scope" />
       <pane id="Scratches" />
 >>>>>>> python
+=======
+      <pane id="Scratches" />
+>>>>>>> doc
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,6 +245,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
@@ -352,13 +375,21 @@
       <pane id="Scratches" />
 =======
 >>>>>>> python
+=======
+        </subPane>
+      </pane>
+>>>>>>> doc
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="F:/Python27/Lib" />
+    <property name="last_opened_file_path" value="G:/localer" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+=======
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+>>>>>>> doc
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
 <<<<<<< HEAD
@@ -773,6 +804,7 @@
   <component name="ToolWindowManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="2" y="86" width="1370" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
@@ -793,12 +825,20 @@
 =======
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1389313" sideWeight="0.4883721" order="0" side_tool="false" content_ui="combo" />
 >>>>>>> doc
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1429652" sideWeight="0.4883721" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> doc
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3163752" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.507365" sideWeight="0.5045386" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3322314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50332224" sideWeight="0.49546143" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66939443" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 <<<<<<< HEAD
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4909091" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" x="27" y="416" width="1322" height="288" />
 >>>>>>> python
@@ -819,6 +859,10 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49016392" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" x="27" y="416" width="1322" height="288" />
 >>>>>>> python
+=======
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28032786" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" x="27" y="416" width="1322" height="288" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> doc
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12556732" sideWeight="0.5116279" order="2" side_tool="true" content_ui="tabs" />
 =======
     <frame x="-224" y="76" width="1382" height="744" extended-state="0" />
@@ -841,17 +885,19 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3322314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
 =======
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
 >>>>>>> python
+=======
+>>>>>>> doc
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
 <<<<<<< HEAD
 =======
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
 >>>>>>> python
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3147541" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -926,6 +972,17 @@
   <component name="editorHistoryManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a6cf815a-6dd2-416f-bde5-19423a1f0fb7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> doc
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -936,6 +993,7 @@
 =======
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+<<<<<<< HEAD
 >>>>>>> doc
 =======
     <entry file="file://$PROJECT_DIR$/Python/test/white.py">
@@ -950,6 +1008,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
 >>>>>>> python
+=======
+>>>>>>> doc
         </state>
       </provider>
     </entry>
@@ -969,6 +1029,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+<<<<<<< HEAD
           <folding />
         </state>
       </provider>
@@ -1011,10 +1072,17 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenjian/Excel.txt" />
+>>>>>>> doc
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
           <folding />
 =======
     <entry file="file://$PROJECT_DIR$/wenjian/test.py" />
@@ -1023,6 +1091,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
 >>>>>>> python
+=======
+>>>>>>> doc
         </state>
       </provider>
     </entry>
@@ -1032,6 +1102,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+<<<<<<< HEAD
 <<<<<<< HEAD
           <folding />
 =======
@@ -1055,9 +1126,12 @@
         <state relative-caret-position="60">
           <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
 >>>>>>> python
+=======
+>>>>>>> doc
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wenjian/Excel.txt" />
     <entry file="file://$PROJECT_DIR$/wenjian/test.py" />
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -1066,11 +1140,14 @@
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           <folding />
 =======
 >>>>>>> python
 =======
           <folding />
+=======
+>>>>>>> doc
         </state>
       </provider>
     </entry>
@@ -1078,6 +1155,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+<<<<<<< HEAD
           <folding />
 >>>>>>> doc
         </state>
@@ -1098,6 +1176,13 @@
       </provider>
     </entry>
 =======
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenjian/Excel.txt" />
+    <entry file="file://$PROJECT_DIR$/wenjian/test.py" />
+>>>>>>> doc
     <entry file="file://$PROJECT_DIR$/trator">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
@@ -1212,7 +1297,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
 <<<<<<< HEAD
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> doc
         </state>
       </provider>
     </entry>
@@ -1235,19 +1323,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+<<<<<<< HEAD
 >>>>>>> doc
           <folding />
+=======
+>>>>>>> doc
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/test/1.10.py">
+    <entry file="file://$PROJECT_DIR$/Python/test/1.10.py" />
+    <entry file="file://$PROJECT_DIR$/Python/test/2.2.py" />
+    <entry file="file://$PROJECT_DIR$/Python/test/2.3.py" />
+    <entry file="file://$PROJECT_DIR$/Python/test/2.4.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_import_hook.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="20">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/hello/index.py">
@@ -1292,6 +1387,12 @@
 <<<<<<< HEAD
         <state relative-caret-position="0">
 >>>>>>> python
+=======
+    <entry file="file://$PROJECT_DIR$/wenjian/Excel.txt" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a6cf815a-6dd2-416f-bde5-19423a1f0fb7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+>>>>>>> doc
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
 =======
@@ -1310,6 +1411,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Python/test/2.3.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1480,6 +1582,41 @@
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
 >>>>>>> python
+=======
+    <entry file="dbDummy://dbtable:/2d0da5a0/a6cf815a-6dd2-416f-bde5-19423a1f0fb7/db1.course">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/2d0da5a0/a6cf815a-6dd2-416f-bde5-19423a1f0fb7/db1.student">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/2d0da5a0/a6cf815a-6dd2-416f-bde5-19423a1f0fb7/db1.sys_date">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+>>>>>>> doc
         </state>
       </provider>
     </entry>
