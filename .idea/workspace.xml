@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c4995a2-eb15-4842-a39e-4aef3fe234a3" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/firstPython/士兵突击.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/firstPython/士兵突击2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/firstPython/士兵突击3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/firstPython/摆放家具.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/firstPython/私有属性和方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/firstPython/继承_单继承.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/firstPython/继承_单继承1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/firstPython/继承_单继承2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/firstPython/继承_单继承3.py" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/test.iml" afterPath="$PROJECT_DIR$/.idea/test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -16,24 +28,37 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/test$index.coverage" NAME="index Coverage Results" MODIFIED="1493196249165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hello" />
+    <SUITE FILE_PATH="coverage/test$_2.coverage" NAME="继承_单继承2 Coverage Results" MODIFIED="1527785057628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/firstPython" />
+    <SUITE FILE_PATH="coverage/test$Tencent_Jump.coverage" NAME="Tencent_Jump Coverage Results" MODIFIED="1524288390562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/tool" />
+    <SUITE FILE_PATH="coverage/test$hub.coverage" NAME="hub Coverage Results" MODIFIED="1522408156373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/test" />
+    <SUITE FILE_PATH="coverage/test$django.coverage" NAME="django Coverage Results" MODIFIED="1505291232018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/test" />
+    <SUITE FILE_PATH="coverage/test$1_10.coverage" NAME="1.10 Coverage Results" MODIFIED="1493196324225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hello/test" />
+    <SUITE FILE_PATH="coverage/test$KochDraw_V2.coverage" NAME="KochDraw_V2 Coverage Results" MODIFIED="1527419920232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USimooc" />
+    <SUITE FILE_PATH="coverage/test$public.coverage" NAME="public Coverage Results" MODIFIED="1505288567051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/test" />
+    <SUITE FILE_PATH="coverage/test$3.coverage" NAME="士兵突击3 Coverage Results" MODIFIED="1527780829444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/firstPython" />
+    <SUITE FILE_PATH="coverage/test$_1.coverage" NAME="继承_单继承1 Coverage Results" MODIFIED="1527784570477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/firstPython" />
+    <SUITE FILE_PATH="coverage/test$__03.coverage" NAME="学生管理系统_函数_03 Coverage Results" MODIFIED="1523445157645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/wangyi" />
+    <SUITE FILE_PATH="coverage/test$turtle_.coverage" NAME="turtle_时钟 Coverage Results" MODIFIED="1523513837613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/wangyi" />
     <SUITE FILE_PATH="coverage/test$text.coverage" NAME="text Coverage Results" MODIFIED="1523265070203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/firstPython" />
     <SUITE FILE_PATH="coverage/test$__01.coverage" NAME="学生管理系统_函数_01 Coverage Results" MODIFIED="1523445408351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/wangyi" />
+    <SUITE FILE_PATH="coverage/test$_.coverage" NAME="继承_单继承 Coverage Results" MODIFIED="1527784338390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/firstPython" />
     <SUITE FILE_PATH="coverage/test$KochDraw_V1.coverage" NAME="KochDraw_V1 Coverage Results" MODIFIED="1524293076905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USimooc" />
     <SUITE FILE_PATH="coverage/test$Eecel_merge.coverage" NAME="Eecel_merge Coverage Results" MODIFIED="1522285670214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/test$Tencent_Jump.coverage" NAME="Tencent_Jump Coverage Results" MODIFIED="1524288390562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/tool" />
     <SUITE FILE_PATH="coverage/test$text1.coverage" NAME="text1 Coverage Results" MODIFIED="1527130645027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/firstPython" />
     <SUITE FILE_PATH="coverage/test$hub.coverage" NAME="hub Coverage Results" MODIFIED="1522408156373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/test" />
+=======
+    <SUITE FILE_PATH="coverage/test$text1.coverage" NAME="text1 Coverage Results" MODIFIED="1527771161701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/firstPython" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
     <SUITE FILE_PATH="coverage/test$SevenDigitsDraw_V1.coverage" NAME="SevenDigitsDraw_V1 Coverage Results" MODIFIED="1524048899192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USimooc" />
     <SUITE FILE_PATH="coverage/test$char.coverage" NAME="char Coverage Results" MODIFIED="1523967562727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/test" />
-    <SUITE FILE_PATH="coverage/test$django.coverage" NAME="django Coverage Results" MODIFIED="1505291232018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/test" />
-    <SUITE FILE_PATH="coverage/test$1_10.coverage" NAME="1.10 Coverage Results" MODIFIED="1493196324225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hello/test" />
+    <SUITE FILE_PATH="coverage/test$.coverage" NAME="私有属性和方法 Coverage Results" MODIFIED="1527784276843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/firstPython" />
+    <SUITE FILE_PATH="coverage/test$2.coverage" NAME="士兵突击2 Coverage Results" MODIFIED="1527780391466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/firstPython" />
     <SUITE FILE_PATH="coverage/test$SevenDigitsDraw_V2.coverage" NAME="SevenDigitsDraw_V2 Coverage Results" MODIFIED="1524288398729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USimooc" />
-    <SUITE FILE_PATH="coverage/test$KochDraw_V2.coverage" NAME="KochDraw_V2 Coverage Results" MODIFIED="1524293647593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USimooc" />
     <SUITE FILE_PATH="coverage/test$white.coverage" NAME="white Coverage Results" MODIFIED="1505288583352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/test" />
-    <SUITE FILE_PATH="coverage/test$public.coverage" NAME="public Coverage Results" MODIFIED="1505288567051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/test" />
+    <SUITE FILE_PATH="coverage/test$_3.coverage" NAME="继承_单继承3 Coverage Results" MODIFIED="1527785348762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/firstPython" />
     <SUITE FILE_PATH="coverage/test$unittest.coverage" NAME="unittest Coverage Results" MODIFIED="1503394338346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/test" />
-    <SUITE FILE_PATH="coverage/test$__03.coverage" NAME="学生管理系统_函数_03 Coverage Results" MODIFIED="1523445157645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/wangyi" />
-    <SUITE FILE_PATH="coverage/test$turtle_.coverage" NAME="turtle_时钟 Coverage Results" MODIFIED="1523513837613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/wangyi" />
     <SUITE FILE_PATH="coverage/test$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1523495655856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/wangyi" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -63,16 +88,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="SevenDigitsDraw_V2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/USimooc/SevenDigitsDraw_V2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="800">
               <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+=======
+      <file leaf-file-name="士兵突击.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/firstPython/士兵突击.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <folding>
+                <marker date="1527781106440" expanded="true" signature="10:400" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="私有属性和方法.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/firstPython/私有属性和方法.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="KochDraw_V2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/USimooc/KochDraw_V2.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,7 +134,48 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+=======
+      <file leaf-file-name="继承_单继承.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/firstPython/继承_单继承.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="继承_单继承1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/firstPython/继承_单继承1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#15#152#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="继承_单继承2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/firstPython/继承_单继承2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="继承_单继承3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python/firstPython/继承_单继承3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+              <folding>
+                <element signature="e#15#152#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,7 +219,21 @@
         <option value="$PROJECT_DIR$/Python/USimooc/KochDraw.py" />
         <option value="$PROJECT_DIR$/Python/USimooc/KochDraw_V1.py" />
         <option value="$PROJECT_DIR$/Python/USimooc/KochDraw_V2.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Python/firstPython/text1.py" />
+=======
+        <option value="$PROJECT_DIR$/Python/firstPython/zhegze_re.py" />
+        <option value="$PROJECT_DIR$/Python/firstPython/text1.py" />
+        <option value="$PROJECT_DIR$/Python/firstPython/摆放家具.py" />
+        <option value="$PROJECT_DIR$/Python/firstPython/士兵突击3.py" />
+        <option value="$PROJECT_DIR$/Python/firstPython/士兵突击2.py" />
+        <option value="$PROJECT_DIR$/Python/firstPython/士兵突击.py" />
+        <option value="$PROJECT_DIR$/Python/firstPython/私有属性和方法.py" />
+        <option value="$PROJECT_DIR$/Python/firstPython/继承_单继承.py" />
+        <option value="$PROJECT_DIR$/Python/firstPython/继承_单继承1.py" />
+        <option value="$PROJECT_DIR$/Python/firstPython/继承_单继承2.py" />
+        <option value="$PROJECT_DIR$/Python/firstPython/继承_单继承3.py" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
       </list>
     </option>
   </component>
@@ -143,8 +244,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="-83" />
     <option name="y" value="36" />
+=======
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -163,6 +269,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,24 +313,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wangyi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="tool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -239,6 +331,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -257,6 +350,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+=======
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
               <option name="myItemId" value="firstPython" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -264,7 +359,10 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,89 +373,23 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Documents\GitHub\test\Python" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\local\test\Python\firstPython" />
       <recent name="E:\Documents\GitHub\test\Python\USimooc" />
       <recent name="E:\Documents\GitHub\test\Python" />
       <recent name="E:\Documents\GitHub\test\Python\test" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Documents\GitHub\test\Python" />
+    </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.text1">
     <configuration default="false" name="SevenDigitsDraw_V2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/USimooc" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/USimooc/SevenDigitsDraw_V2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Tencent_Jump" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/tool" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/tool/Tencent_Jump.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="KochDraw_V1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/USimooc" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/USimooc/KochDraw_V1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="KochDraw_V2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/USimooc" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/USimooc/KochDraw_V2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="text1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.继承_单继承3">
+    <configuration default="false" name="私有属性和方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -370,7 +402,123 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/USimooc/SevenDigitsDraw_V2.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/firstPython/私有属性和方法.py" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+<<<<<<< HEAD
+    <configuration default="false" name="Tencent_Jump" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="继承_单继承" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/tool" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/firstPython" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/tool/Tencent_Jump.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/firstPython/继承_单继承.py" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+<<<<<<< HEAD
+    <configuration default="false" name="KochDraw_V1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="继承_单继承1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/USimooc" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/firstPython" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/USimooc/KochDraw_V1.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/firstPython/继承_单继承1.py" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+<<<<<<< HEAD
+    <configuration default="false" name="KochDraw_V2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="继承_单继承2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/firstPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/USimooc/KochDraw_V2.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/firstPython/继承_单继承2.py" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+<<<<<<< HEAD
+    <configuration default="false" name="text1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="继承_单继承3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/firstPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/firstPython/text1.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/firstPython/继承_单继承3.py" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -590,6 +738,7 @@
       <method />
     </configuration>
     <list size="5">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Python.SevenDigitsDraw_V2" />
       <item index="1" class="java.lang.String" itemvalue="Python.Tencent_Jump" />
       <item index="2" class="java.lang.String" itemvalue="Python.KochDraw_V1" />
@@ -603,6 +752,21 @@
         <item index="2" class="java.lang.String" itemvalue="Python.KochDraw_V1" />
         <item index="3" class="java.lang.String" itemvalue="Python.SevenDigitsDraw_V2" />
         <item index="4" class="java.lang.String" itemvalue="Python.Tencent_Jump" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="Python.私有属性和方法" />
+      <item index="1" class="java.lang.String" itemvalue="Python.继承_单继承" />
+      <item index="2" class="java.lang.String" itemvalue="Python.继承_单继承1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.继承_单继承2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.继承_单继承3" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.继承_单继承3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.继承_单继承2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.继承_单继承1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.继承_单继承" />
+        <item index="4" class="java.lang.String" itemvalue="Python.私有属性和方法" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
       </list>
     </recent_temporary>
   </component>
@@ -632,6 +796,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-83" y="36" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
@@ -644,8 +809,22 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25245902" sideWeight="0.6860817" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48772505" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" x="27" y="416" width="1322" height="288" />
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18057664" sideWeight="0.3888889" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31428573" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3147541" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.82295084" sideWeight="0.49546143" order="7" side_tool="false" content_ui="tabs" x="22" y="113" width="1322" height="502" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3360927" sideWeight="0.6860817" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.205298" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" x="27" y="416" width="1322" height="288" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19818456" sideWeight="0.6111111" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.62027234" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39688042" sideWeight="0.62027234" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -704,28 +883,22 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python/tool/Tencent_Jump.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python/tool/Tencent_Jump.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python/tool/Tencent_Jump.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="26" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="48" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/trator">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -776,6 +949,8 @@
     <entry file="file://$PROJECT_DIR$/hello/test/1.10.py" />
     <entry file="file://$PROJECT_DIR$/Python/test/5.py" />
     <entry file="file://$PROJECT_DIR$/Python/test/4.2.py" />
+=======
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
     <entry file="file://$PROJECT_DIR$/Python/test/public.py" />
     <entry file="file://$PROJECT_DIR$/Python/test/unittest.py" />
     <entry file="file://$PROJECT_DIR$/Python/__init__.py">
@@ -787,25 +962,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python/index.py" />
     <entry file="file://$PROJECT_DIR$/Python/Jump.py" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/de2bb7c1-78e7-414b-a39b-13994a14e941/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/2d0da5a0/de2bb7c1-78e7-414b-a39b-13994a14e941/db1.course">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/de2bb7c1-78e7-414b-a39b-13994a14e941/console.sql" />
+    <entry file="dbDummy://dbtable:/2d0da5a0/de2bb7c1-78e7-414b-a39b-13994a14e941/db1.course" />
     <entry file="file://$PROJECT_DIR$/Python/Eecel_merge.py" />
     <entry file="file://$PROJECT_DIR$/Python/firstPython/text.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -938,14 +1096,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/tool/Tencent_Jump.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python/USimooc/Text_Pro_Bar1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -957,30 +1107,171 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+<<<<<<< HEAD
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="2574" column="0" lean-forward="false" selection-start-line="2574" selection-start-column="0" selection-end-line="2574" selection-end-column="0" />
+          <folding />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="2660" column="0" lean-forward="false" selection-start-line="2660" selection-start-column="0" selection-end-line="2660" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python/USimooc/SevenDigitsDraw_V2.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="800">
+=======
+        <state relative-caret-position="292">
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
           <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python/USimooc/KochDraw_V2.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="280">
           <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+=======
+        <state relative-caret-position="212">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/firstPython/zhegze_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/firstPython/mysqltest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/tool/Tencent_Jump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-643338342/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="811" column="8" lean-forward="false" selection-start-line="811" selection-start-column="8" selection-end-line="811" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/firstPython/摆放家具.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python/firstPython/text1.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="240">
           <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+=======
+        <state relative-caret-position="464">
+          <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding>
+            <element signature="e#1644#1699#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/firstPython/士兵突击3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/firstPython/士兵突击2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding>
+            <element signature="e#12#400#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/firstPython/士兵突击.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <marker date="1527781106440" expanded="true" signature="10:400" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/firstPython/私有属性和方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+>>>>>>> 5fd8cf87356f7dc6d9570efd7e3504e0ddaeed1f
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/firstPython/继承_单继承.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/firstPython/继承_单继承1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#152#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/firstPython/继承_单继承2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/firstPython/继承_单继承3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <element signature="e#15#152#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
