@@ -1,4 +1,5 @@
 import pygame
+
 pygame.init()
 # 创建游戏窗口
 screen = pygame.display.set_mode((480, 700))
@@ -23,9 +24,9 @@ clock = pygame.time.Clock()
 # 游戏循环 -> 意味着游戏的正式开始
 i = 0
 while True:
-	# 可以指定循环体内部的代码执行的频率
-	clock.tick(60)
-	print(i)
-	i += 1
-	pass
+    # 可以指定循环体内部的代码执行的频率
+    clock.tick(60)
+    print(i)
+    i += 1
+    pass
 pygame.quit()
