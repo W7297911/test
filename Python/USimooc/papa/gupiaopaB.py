@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import traceback
+import traceback2
 import re
 def getHTMLText(url, code="utf-8"):
 	try:
