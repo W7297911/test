@@ -1,6 +1,8 @@
 import pygame
 from PlaneSprites import *
 
+from test.Python.AirGame.PlaneSprites import GameSprite
+
 pygame.init()
 # 创建游戏窗口
 screen = pygame.display.set_mode((480, 700))
