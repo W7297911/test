@@ -1,7 +1,7 @@
 import pygame
 from PlaneSprites import *
 
-from test.Python.AirGame.PlaneSprites import GameSprite
+from test.python.AirGame.PlaneSprites import GameSprite
 
 pygame.init()
 # 创建游戏窗口

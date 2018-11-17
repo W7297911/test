@@ -1,6 +1,6 @@
 import wordcloud
 import jieba
-f = open("D:/TEST/test/Python/USimooc/Doc/工作报告.txt", "r")
+f = open("D:/TEST/test/python/USimooc/Doc/工作报告.txt", "r")
 te = f.read()
 f.close()
 ls = jieba.lcut(te)

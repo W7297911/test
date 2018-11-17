@@ -3,8 +3,8 @@ import wordcloud
 import jieba
 from scipy.misc import imread
 
-mask = imread("D:/TEST/test/Python/USimooc/Doc/fivestar.png")
-fed = open("D:/TEST/test/Python/USimooc/Doc/1号文件.txt", "r")
+mask = imread("D:/TEST/test/python/USimooc/Doc/fivestar.png")
+fed = open("D:/TEST/test/python/USimooc/Doc/1号文件.txt", "r")
 te = fed.read()
 fed.close()
 ls = jieba.lcut(te)

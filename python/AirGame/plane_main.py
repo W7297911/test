@@ -1,7 +1,7 @@
 import pygame
 from PlaneSprites import *
 
-from test.Python.AirGame.PlaneSprites import CREATE_ENEMY_EVENT, BackGround, FRAME_PER_SEC, SCREEN_RECT
+from test.python.AirGame.PlaneSprites import CREATE_ENEMY_EVENT, BackGround, FRAME_PER_SEC, SCREEN_RECT
 
 
 class PlaneGame(object):
