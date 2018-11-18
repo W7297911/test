@@ -1,0 +1,13 @@
+[userinfo]
+name = zanhu
+pwd = 12345678
+
+[study]
+python_base = 15
+python_junior = 20
+linux_base = 15
+
+[login]
+date = 2018-11-18
+time = 23:24
+
