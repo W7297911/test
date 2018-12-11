@@ -323,3 +323,114 @@ select * from emp;
 
 --事务
 --事务是保证数据一致性，它由一组相关的dml语句组成，该组的dml语句要么全部成功，要么全部失败。
+--锁 当执行事务时（dml语句），Oracle会在被作用的表上加锁，防止其他用户改表表的结构。
+
+--提交事务 使用commit语句可以提交事务，当执行了commit语句后，会确认事务的变化、结束事务、删除保存点、释放锁，当使用commit语句结束
+--事务后，其他会话将可以查看到事务变化后的新数据；
+  
+--回退事务 先理解保存点（savepoint）的概念和作用。保存点是事务的一个点，用于取消部分事务，当结束事务时，会自动的删除该事物所定义的所有保存点
+--当执行rollback时，通过指定保存点可以回退到指定的点；
+--如果保存点之后已经commit提交事务时，该保存点就失效；
+
+--设置保存点a1
+savepoint a1;
+
+delete from emp where ename='小李';
+select * from emp;
+insert into emp values(8826,'qq1','MANAGER',7788,to_date('1988-12-12','yyyy-mm-dd'),8000,'',10);
+
+--设置保存点a2
+savepoint a2;
+
+delete from emp where ename='小爱';
+
+select * from emp;
+
+--取消部分事务
+rollback to a2;
+
+--取消全部事务
+rollback;
+
+
+
+--SQL函数使用
+--字符函数：
+--lower（char）:将字符串转化为小写的格式
+--upper（char）:将字符串转化为大写的格式
+--length（char):返回字符串的长度
+--substr（char,m,n）:取字符串的子串
+
+select lower(emp.ename) as 小写 from emp;
+select upper(ename) as 大写 from emp;
+select length(ename) from emp;
+select substr(ename,2,2) from emp;
+select * from emp where length(ename)=5;
+select upper(substr(e.ename,1,1))||lower(substr(e.ename,2,length(ename)-1))as 首字母大写 from emp e;
+
+--replace(char1,search_string,replce_string)
+--instr(char1,char2,[,n[,m]])取子串在字符串中的位置
+
+select replace(ename,'A','a') from emp;
+
+
+--数学函数
+--round(n,[m]):四舍五入，m小数位
+--trunc(n,[m])：截取位数，m小数位
+--mod(n)：
+--floor(n)：返回小于或等于n的最大整数
+--ceil(n): 返回大于或是等于n的最小整数
+
+select e.sal,e.comm, (round(e.sal)+round(e.comm))*13 from emp e;
+
+
+select trunc(sal,1) from emp;
+
+select mod(10，2) from dual;
+
+/*avg() :  求平均值，计算并返回表达式的平均值
+count（） :统计数目，返回一个集合中的项数
+max （）:求最大值，返回表达式中的最大值
+min（）: 求最小值，返回表达式中的最小值
+sum（） :求和，计算并返回表达式各项之和
+stddev（）： 求标准差
+stddev_pop（）：求总体标准差
+聚合函数常与select语句中的group by子句一起使用，除了count（）函数，其他都会忽略null
+用法 select 函数名 （列名） from 表名 或加上 group by 列名 having 函数式
+select sum(nl)  xb from a group by xb having sum(nl)>40 ;
+意为  在xb相同情况下， 求出总和大于40的xb，并输出来
+select stddev_pop(nl),xb from a group by xb  ;
+求   在xb相同情况下，求标准差
+当group by 与 order by 同时使用时，order by 子句中的列必须包含在聚合函数中或group by 子句中
+select sum(nl),xb from a  group by xb,nl order by nl  ; 
+输出 nl 的总和并排序
+abs（n）：用于返回n的绝对值       sqrt（n）：返回n的平方
+acos(n):反余弦函数，用于返回-1--1之间的数，n表示弧度
+asin（n）:反正弦函数，用于返回-1--1之间的数，n表示弧度
+atan（n）：反正切函数，用于返回n的反正切值，n表示弧度
+ceil（n）：用于返回等于n的最小整数
+cos（n）：用于返回n的余弦值，n为弧度
+cosh（n）：用于返回n的双曲余弦值，n为数字
+exp（n）：用于返回e的n次幂，e=2.71828183
+floor（n）：用于返回小于或等于n的最大整数
+ln（n）：用于返回n的自然对数，n>0
+log(n1，n2)：用于返回以n1为底，n2的对数
+mod(n1，n2):用于返回n1除以n2的余数
+power（n1，n2）：用于返回n1的n2次方
+round（n1，n2）：四舍五入，n2为小数点后的剩余几位，n2为整数
+sign（n）：若n<0 返回-1 ,n>0 返回1 ,n=0 返回0
+sin（n）：用于返回n的正弦值，n为弧度
+sinh（n）：用于返回n的双曲正弦值，n为弧度
+tan（n）：用于返回n的正切值，n为弧度
+tanh（n）：用于返回n的双曲正切值，n为弧度
+trunc（n1，n2）：当n2为0，n1的小数去除，n2不为0，小数留下相应的n2位
+*/
+
+
+--日期函数
+
+--sysdate 系统日期
+--add_months
+--
+select * from emp where sysdate>add_months(hiredate,300);
+select ename,trunc(sysdate-hiredate) as 入职天数 from emp;
