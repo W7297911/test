@@ -8,6 +8,8 @@
 
 #练习2.2
 #根据给定的年月日以数字形式打印出日期
+from __builtin__ import raw_input
+
 months = ['january','february','march','april','may','june','july','august','september','october','november','december']
 #以1~31的数字作为结尾的列表
 endings = ['st','nd','rd'] + 17*['th']\
