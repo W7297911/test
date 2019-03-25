@@ -567,7 +567,7 @@ end;
 --包含定义部分和执行部分
 
 declare                  --声明
-  v_ename varchar2(5);   --定义字符串变量··
+  v_ename varchar2(5);   --定义字符串变量
   v_sal number(7,2);
 begin
   select ename,sal into v_ename,v_sal from emp where empno=&no;
