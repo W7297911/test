@@ -6,9 +6,6 @@
 import numpy as np
 import pandas as pd
 
-#vdf = pd.DataFrame(pd.read_csv('name.csv', header=1))
-# df = pd.DataFrame(pd.read_Excel('name.xlsx'))
-
 df = pd.DataFrame({"id": [1001, 1002, 1003, 1004, 1005, 1006],
                    "date": pd.date_range('20130102', periods=6),
                    "city": ['Beijing ', 'SH', ' guangzhou ', 'Shenzhen', 'shanghai', 'BEIJING '],
